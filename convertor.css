@@ -1,0 +1,24 @@
+.card{
+    background-image: url("https://cdn.wallpapersafari.com/74/70/ItmOPu.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+.inputbg{
+    background-color: white;
+}
+.icon{
+    background-color:white;
+ }
+#celsius, #fahrenheit, #kelvin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+ }
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
